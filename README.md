@@ -1,2 +1,2 @@
 # demo
-Learning Git &amp; Github class
+Learning Git &amp; Github class.
